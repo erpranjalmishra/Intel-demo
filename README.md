@@ -30,7 +30,7 @@ Each demo includes:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/erpranjalmishra/intel-demo.git
-cd intel-demo
+cd intel-demo ```
 
 ---
 
