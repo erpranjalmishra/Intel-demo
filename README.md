@@ -31,3 +31,9 @@ Each demo includes:
 ```bash
 git clone https://github.com/erpranjalmishra/intel-demo.git
 cd intel-demo
+
+---
+
+> Built with ❤️ by student innovators for real-world rural impact.
+
+an team v Project
