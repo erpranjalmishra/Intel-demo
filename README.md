@@ -1,5 +1,11 @@
 # 🧠 Intel® AI Demos Repository
 
+---
+
+> Built with ❤️ by student innovators for real-world rural impact.
+
+an team v Project
+
 Welcome to the **Intel® AI Demos** repository — a collection of example projects and experiments that showcase the power of **Intel® AI technologies** across hardware, software, and cloud platforms.
 
 This repository is maintained by Intel® Student Ambassadors and contributors to help developers, researchers, and students learn and build with Intel-optimized tools and platforms.
@@ -30,10 +36,5 @@ Each demo includes:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/erpranjalmishra/intel-demo.git
-cd intel-demo ```
-
----
-
-> Built with ❤️ by student innovators for real-world rural impact.
-
-an team v Project
+cd intel-demo
+  
